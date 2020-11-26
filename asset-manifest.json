@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e93194e6.chunk.css",
+    "main.js": "/static/js/main.fa5d31ca.chunk.js",
+    "main.js.map": "/static/js/main.fa5d31ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bb0f5578.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bb0f5578.js.map",
+    "static/js/2.0dc84477.chunk.js": "/static/js/2.0dc84477.chunk.js",
+    "static/js/2.0dc84477.chunk.js.map": "/static/js/2.0dc84477.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e93194e6.chunk.css.map": "/static/css/main.e93194e6.chunk.css.map",
+    "static/js/2.0dc84477.chunk.js.LICENSE.txt": "/static/js/2.0dc84477.chunk.js.LICENSE.txt",
+    "static/media/big_logo.6773aff1.svg": "/static/media/big_logo.6773aff1.svg",
+    "static/media/black_friday.293a3228.jpeg": "/static/media/black_friday.293a3228.jpeg",
+    "static/media/whitelogo.374675cd.png": "/static/media/whitelogo.374675cd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb0f5578.js",
+    "static/js/2.0dc84477.chunk.js",
+    "static/css/main.e93194e6.chunk.css",
+    "static/js/main.fa5d31ca.chunk.js"
+  ]
+}
