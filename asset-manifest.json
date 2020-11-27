@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.e93194e6.chunk.css",
-    "main.js": "/static/js/main.fa5d31ca.chunk.js",
-    "main.js.map": "/static/js/main.fa5d31ca.chunk.js.map",
+    "main.css": "/static/css/main.6aa2c82f.chunk.css",
+    "main.js": "/static/js/main.11ae07fc.chunk.js",
+    "main.js.map": "/static/js/main.11ae07fc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bb0f5578.js",
     "runtime-main.js.map": "/static/js/runtime-main.bb0f5578.js.map",
-    "static/js/2.0dc84477.chunk.js": "/static/js/2.0dc84477.chunk.js",
-    "static/js/2.0dc84477.chunk.js.map": "/static/js/2.0dc84477.chunk.js.map",
+    "static/js/2.b1319f45.chunk.js": "/static/js/2.b1319f45.chunk.js",
+    "static/js/2.b1319f45.chunk.js.map": "/static/js/2.b1319f45.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.e93194e6.chunk.css.map": "/static/css/main.e93194e6.chunk.css.map",
-    "static/js/2.0dc84477.chunk.js.LICENSE.txt": "/static/js/2.0dc84477.chunk.js.LICENSE.txt",
+    "static/css/main.6aa2c82f.chunk.css.map": "/static/css/main.6aa2c82f.chunk.css.map",
+    "static/js/2.b1319f45.chunk.js.LICENSE.txt": "/static/js/2.b1319f45.chunk.js.LICENSE.txt",
+    "static/media/bag.b3ebb77d.png": "/static/media/bag.b3ebb77d.png",
+    "static/media/basketball.3435e2a4.png": "/static/media/basketball.3435e2a4.png",
     "static/media/big_logo.6773aff1.svg": "/static/media/big_logo.6773aff1.svg",
     "static/media/black_friday.293a3228.jpeg": "/static/media/black_friday.293a3228.jpeg",
+    "static/media/caffee.f6d70d3e.png": "/static/media/caffee.f6d70d3e.png",
+    "static/media/iphone.61a3e0b9.png": "/static/media/iphone.61a3e0b9.png",
+    "static/media/perfume.52080b01.png": "/static/media/perfume.52080b01.png",
+    "static/media/teddy.263fe6ce.png": "/static/media/teddy.263fe6ce.png",
+    "static/media/tire.0dd1e5d3.png": "/static/media/tire.0dd1e5d3.png",
+    "static/media/washer.bf2141b9.png": "/static/media/washer.bf2141b9.png",
     "static/media/whitelogo.374675cd.png": "/static/media/whitelogo.374675cd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bb0f5578.js",
-    "static/js/2.0dc84477.chunk.js",
-    "static/css/main.e93194e6.chunk.css",
-    "static/js/main.fa5d31ca.chunk.js"
+    "static/js/2.b1319f45.chunk.js",
+    "static/css/main.6aa2c82f.chunk.css",
+    "static/js/main.11ae07fc.chunk.js"
   ]
 }
